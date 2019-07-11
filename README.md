@@ -1,4 +1,4 @@
-# Computational Pipeline for Genome-wide DNA-methylation data analysis
+### Computational Pipeline for Genome-wide DNA-methylation data analysis
 
 * [MINI REVIEW: Statistical methods for detecting differentially methylated loci and regions](http://biorxiv.org/content/biorxiv/early/2014/07/15/007120.full.pdf)
 * [Tumor purity and differential methylation in cancer epigenomics](http://bfg.oxfordjournals.org/content/early/2016/05/18/bfgp.elw016.long)
